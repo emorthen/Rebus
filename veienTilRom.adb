@@ -1,6 +1,6 @@
 -- Velvel, flott å se dere er kommet så langt
 -- 
--- Her er en nøtt å bryne seg på, man kan bare ønske lykke til!
+-- Her er en nøtt å bryne seg på:
 -- 
 -- Neste stopp er så enkelt som
 -- 59.969125, 10.abcdef 
